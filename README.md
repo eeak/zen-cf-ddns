@@ -1,3 +1,4 @@
+https://habr.com/ru/post/471102/
 # How to install and use
 ## Linux install
 1. Clone repo: `git clone https://github.com/DzenDyn/zen-cf-ddns.git`
